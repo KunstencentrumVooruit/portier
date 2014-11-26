@@ -1,0 +1,7 @@
+[global]
+
+# Set port to the physical port used to connect to your phone.
+# Linux version is:
+port = /dev/ttyUSB0
+model = AT
+connection = serial
